@@ -1,3 +1,6 @@
+<head>
+  <script defer src = "Test_task.js"></script>
+</head>
 У нас есть склад, на котором лежат тканевые маски разных размеров.
 
 ```ts
